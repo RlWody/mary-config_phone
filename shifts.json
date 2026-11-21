@@ -3,10 +3,10 @@
   "version": 1,
 
   "power_settings": {
-    "power_1_time": 6.4,
-    "power_2_time": 5.6,
-    "power_3_time": 2.3,
-    "power_4_time": 0.6
+    "power_1_time": 7.6,
+    "power_2_time": 6.9,
+    "power_3_time": 3.6,
+    "power_4_time": 1.6
   },
 
   "shifts": {
@@ -46,7 +46,7 @@
 
     "3": {
       "intro_label": "SHIFT 3",
-      "difficulty": 1.75,
+      "difficulty": 1.6,
       "starting_money": 48.0,
       "allowed_monsters": ["Yellow", "Green", "Blue", "Red"],
       "temperature_min_requests": 4,
@@ -63,7 +63,7 @@
 
     "4": {
       "intro_label": "SHIFT 4",
-      "difficulty": 2.0,
+      "difficulty": 1.8,
       "starting_money": 59.0,
       "allowed_monsters": ["Evil Green", "Evil Blue", "Evil Red"],
       "temperature_min_requests": 4,
